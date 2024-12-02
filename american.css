@@ -1,0 +1,70 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #CC8046;
+}
+
+.top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav {
+    background-color: white;
+    padding: 3%;
+}
+
+nav a {
+    color: #191F24;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 4vh;
+    width: 20vw;
+    height: 5vh;
+    text-align: center;
+}
+
+
+.turk {
+    height: 85px;
+    width: 100px;
+}
+
+.hero {
+    background-image: url(images/image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+
+}
+
+.images {
+    height: 80vh;
+    width: 50vw;
+}
+
+.hero h2 {
+    display: inline-block;
+    background-color:#878788;
+    width: 20vw;
+    font-size: 8vh;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 4vh;
+    background-color: #878788;
+    height: 5vh;
+}
+
+.info1 {
+    display: flex;
+    flex-direction: row;
+}
+
+

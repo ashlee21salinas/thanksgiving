@@ -51,10 +51,165 @@ nav a {
     height: 100%;
     background: rgba(0,0,0,0.5);
     border: 1px solid black;
+    display: flex;
+    align-items: center;
     
 }
 
 .box, h1, p {
     text-align: center;
     color: white;
+}
+
+.image {
+    width: 50vw;
+    height: 70vh;
+
+}
+
+.information {
+    margin-top: 15%;
+}
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 8vh;
+}
+
+.info {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row; 
+}
+
+.info p {
+    font-size: 3vh;
+    margin-top: 10%;
+    width: 500px;
+    margin-left: 20%;
+}
+
+.under {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;
+}
+
+.b1 {
+    height: 5vh;
+    width: 8vw;
+    margin-top: 10%;
+    margin-left: 50%;
+    background-color: black;
+    color: white;
+}
+
+.information2 {
+    margin-top: 5%;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 8vh;
+}
+
+.info2 {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row; 
+}
+
+.info2 p {
+    font-size: 3vh;
+    margin-top: 10%;
+    width: 500px;
+    margin-left: 20%;
+}
+
+.under2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;
+}
+
+.b2 {
+    height: 5vh;
+    width: 8vw;
+    margin-top: 10%;
+    margin-left: 50%;
+    background-color: black;
+    color: white;
+}
+
+.information3 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    font-size: 8vh;
+}
+
+.info3 {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row; 
+}
+
+.info3 p {
+    font-size: 3vh;
+    margin-top: 10%;
+    width: 500px;
+    margin-left: 20%;
+}
+
+.under3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;
+}
+
+.b3 {
+    height: 5vh;
+    width: 8vw;
+    margin-top: 10%;
+    margin-left: 50%;
+    background-color: black;
+    color: white;
+}
+
+
+footer {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.middle p  {
+    color: black;
+    font-size: 5vh;
+    
+}
+
+.end {
+    height: 100px;
+    width: 100px;
 }
