@@ -1,0 +1,33 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #CC8046;
+}
+
+.top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav {
+    background-color: white;
+    padding: 3%;
+}
+
+nav a {
+    color: #191F24;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 4vh;
+    width: 20vw;
+    height: 5vh;
+    text-align: center;
+}
+
+
+.turk {
+    height: 85px;
+    width: 100px;
+}
