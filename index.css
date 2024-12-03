@@ -22,6 +22,11 @@ nav a {
     padding: 30px;
 }
 
+.box p {
+    color: white;
+    font-size: 3vh;
+}
+
 .hero {
     background-image: url(images/image1.jpg);
     background-repeat: none;
@@ -227,23 +232,23 @@ footer {
   }
 
   .end {
-    margin-top: 8%;
+    margin-top: 3%;
   }
 
   
   .info p{
     font-size: 2vh;
-    width: 200px;
+    width: 150px;
 }
 
 .info2 p {
     font-size: 2vh;
-    width: 200px;
+    width: 150px;
 }
 
 .info3 p {
     font-size: 2vh;
-    width: 200px;
+    width: 150px;
 }
 }
 
@@ -304,6 +309,24 @@ footer {
         width: 200px;
     }
 }
+
+@media screen and (min-width: 660px) and (max-width: 710px) {
+    .info p{
+        font-size: 2vh;
+        width: 200px;
+    }
+
+    .info2 p {
+        font-size: 2vh;
+        width: 200px;
+    }
+
+    .info3 p {
+        font-size: 2vh;
+        width: 200px;
+    }
+}
+
 
 @media screen and (min-width: 839px) and (max-width: 1000px) {
      

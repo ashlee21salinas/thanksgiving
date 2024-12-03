@@ -33,6 +33,8 @@ nav a {
 }
 
 
+
+
 .images {
     height: 80vh;
     width: 50vw;
@@ -260,3 +262,166 @@ footer {
 .turk2 {
     height: 15vh;
 }
+
+
+@media screen and (min-width: 520px) and (max-width: 563px) {
+    .body {
+      height: fit-content;
+      width: fit-content;
+    }
+  
+    nav a {
+     
+      padding: 2%;
+      font-size: 2vh;
+    }
+  
+    .end {
+      margin-top: 3%;
+    }
+  
+    
+    .info p{
+      font-size: 2vh;
+      width: 200px;
+  }
+  
+  .info2 p {
+      font-size: 2vh;
+      width: 200px;
+  }
+  
+  .info3 p {
+      font-size: 2vh;
+      width: 200px;
+  }
+
+  .turk {
+    height: 50px;
+    width: 90px;
+  }
+
+  .info7 p {
+    width: 220px;
+  }
+
+  .info8 p {
+    width: 220px;
+  }
+
+  .h {
+    font-size: 3vh;
+  }
+
+  .start p {
+    font-size: 3vh;
+  }
+  }
+  
+  
+  @media screen and (min-width: 563px) and (max-width: 652px) {
+      .end {
+          margin-top: 7%;
+          
+      }
+  
+      nav a {
+     
+          padding: 2%;
+          font-size: 2vh;
+        }
+  
+      .info p{
+          font-size: 2vh;
+          width: 200px;
+      }
+  
+      .info2 p {
+          font-size: 2vh;
+          width: 200px;
+      }
+  
+      .info3 p {
+          font-size: 2vh;
+          width: 200px;
+      }
+
+
+    h2 {
+        font-size: 2vh;
+    }
+  }
+
+  @media screen and (min-width: 562px) and (max-width: 1000px) {
+    .turk {
+        height: 50px;
+        width: 90px;
+      }
+  }
+  
+
+  
+  @media screen and (min-width: 653px) and (max-width: 690px) {
+      .end {
+          margin-top: 6%;
+      }
+  
+      nav a {
+     
+          padding: 2%;
+          font-size: 3vh;
+        }
+  
+        
+      .info p{
+          font-size: 2vh;
+          width: 300px;
+      }
+  
+      .info2 p {
+          font-size: 2vh;
+          width: 200px;
+      }
+  
+      .info3 p {
+          font-size: 2vh;
+          width: 200px;
+      }
+  }
+  
+  @media screen and (min-width: 839px) and (max-width: 1000px) {
+       
+  
+  }
+  
+  
+  @media screen and (min-width: 677px) and (max-width: 1000px) {
+      .end {
+          margin-top: 1%;
+      }
+  
+      nav a {
+     
+          padding: 2%;
+          font-size: 3vh;
+        }
+  
+        
+   
+  }
+  
+  @media screen and (min-width: 1000px) and (max-width: 1028px) {
+      .end {
+          margin-top: 1%;
+      }
+  
+      nav a {
+     
+          padding: 2%;
+          font-size: 3vh;
+          width: 25vh;
+        }
+  
+        
+  
+  }
