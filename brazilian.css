@@ -260,3 +260,10 @@ footer {
 .turk2 {
     height: 15vh;
 }
+
+
+@media screen and (min-width:520px) and (max-width:1000px) {
+    .turk {
+        height: ;
+    }
+}
